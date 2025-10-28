@@ -1,6 +1,3 @@
-# modulux-shipping-helper
-Enhances WooCommerce Flat Rate shipping by allowing per-product custom weight units, rule-based pricing, VAT, and smart calculation logic.
-=======
 # Modulux Shipping Helper for WooCommerce
 
 **A powerful WooCommerce extension that enhances Flat Rate shipping by supporting custom weight units and smart rule-based pricing.**
