@@ -1,0 +1,16 @@
+.tab-content {
+    display: none;
+    margin-top: 20px;
+}
+.tab-content.active {
+    display: block;
+}
+.remove-shipping-rule, .remove-unit {
+    border: 1px solid #ff0000 !important;
+    color: #ff0000 !important;
+    cursor: pointer !important;
+    margin-left: 10px !important;
+}
+.form-table {
+    width: auto;
+}

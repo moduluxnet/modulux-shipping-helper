@@ -1,0 +1,17 @@
+# Exclude dev files from release zip
+/.gitignore export-ignore
+/README.md export-ignore
+/.gitattributes export-ignore
+/deploy.sh export-ignore
+/deploy.bat export-ignore
+/assets/screenshot-1.png export-ignore
+/assets/screenshot-2.png export-ignore
+/assets/screenshot-3.png export-ignore
+/assets/screenshot-4.png export-ignore
+/assets/screenshot-5.png export-ignore
+
+# Keep these for WordPress.org zip
+/README.txt
+/modulux-shipping-helper.php
+/includes export-ignore
+/assets export-ignore

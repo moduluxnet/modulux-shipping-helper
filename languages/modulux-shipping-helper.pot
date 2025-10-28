@@ -1,0 +1,242 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: modulux-shipping-helper\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 18:30+0300\n"
+"PO-Revision-Date: 2025-06-10 21:40+0300\n"
+"Last-Translator: freevision <team@freevision.me>\n"
+"Language-Team: modulux <hello@modulux.net>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: "
+"_e;__;esc_attr_e;esc_attr__;_n_noop;esc_html__;esc_html_e;_x\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: inc/acf\n"
+"X-Poedit-SearchPathExcluded-1: .git\n"
+"X-Poedit-SearchPathExcluded-2: .vscode\n"
+"X-Poedit-SearchPathExcluded-3: assets\n"
+"X-Poedit-SearchPathExcluded-4: inc/acf-fields\n"
+
+#: includes/admin-settings.php:8
+#: includes/admin-settings.php:9
+msgid "Shipping Helper"
+msgstr ""
+
+#: includes/admin-settings.php:24
+msgid ""
+"Are you sure you want to remove this unit? This action "
+"cannot be undone after you Save Settings, and removing a "
+"unit will remove it from all products that use it."
+msgstr ""
+
+#: includes/admin-settings.php:25
+msgid ""
+"Are you sure you want to remove this unit? This action "
+"cannot be undone after you Save Settings."
+msgstr ""
+
+#: includes/admin-settings.php:26
+#: includes/admin-settings.php:150
+msgid "Add Unit"
+msgstr ""
+
+#: includes/admin-settings.php:27
+#: includes/admin-settings.php:229
+msgid "Add Rule"
+msgstr ""
+
+#: includes/admin-settings.php:63
+msgid ""
+"⚠ This plugin requires WooCommerce <strong>Flat Rate</"
+"strong> shipping method to be enabled in at least one "
+"zone. Please configure your shipping methods under <a "
+"href=\""
+msgstr ""
+
+#: includes/admin-settings.php:67
+msgid ""
+"ℹ Shipping rates configured here will only apply to "
+"WooCommerce <strong>Flat Rate</strong> shipping methods."
+msgstr ""
+
+#: includes/admin-settings.php:74
+msgid "Kilograms (kg)"
+msgstr ""
+
+#: includes/admin-settings.php:75
+msgid "Grams (g)"
+msgstr ""
+
+#: includes/admin-settings.php:76
+msgid "Pounds (lbs)"
+msgstr ""
+
+#: includes/admin-settings.php:77
+msgid "Ounces (oz)"
+msgstr ""
+
+#: includes/admin-settings.php:118
+msgid "Modulux Shipping Helper Settings"
+msgstr ""
+
+#: includes/admin-settings.php:121
+msgid "Weight Units"
+msgstr ""
+
+#: includes/admin-settings.php:122
+msgid "Shipping Rates"
+msgstr ""
+
+#: includes/admin-settings.php:123
+msgid "What is this?"
+msgstr ""
+
+#: includes/admin-settings.php:135
+#, php-format
+msgid "Unit %d:"
+msgstr ""
+
+#: includes/admin-settings.php:139
+#, php-format
+msgid ""
+"This is the default WooCommerce weight unit: <strong>%s</"
+"strong>"
+msgstr ""
+
+#: includes/admin-settings.php:141
+#, php-format
+msgid ""
+"This unit is available in WooCommerce: <strong>%s</"
+"strong>"
+msgstr ""
+
+#: includes/admin-settings.php:143
+msgid "This unit will be available for products."
+msgstr ""
+
+#: includes/admin-settings.php:168
+msgid "Calculation Mode"
+msgstr ""
+
+#: includes/admin-settings.php:171
+msgid "Heaviest product per unit"
+msgstr ""
+
+#: includes/admin-settings.php:172
+msgid "Total weight per unit"
+msgstr ""
+
+#: includes/admin-settings.php:175
+msgid "Choose how to calculate shipping per weight unit."
+msgstr ""
+
+#: includes/admin-settings.php:180
+msgid "VAT (%)"
+msgstr ""
+
+#: includes/admin-settings.php:184
+#, php-format
+msgid "Free Shipping Minimum (%s)"
+msgstr ""
+
+#: includes/admin-settings.php:197
+#, php-format
+msgid ""
+"Fallback price per <strong><u>%s</u></strong> (used if "
+"above all rules):"
+msgstr ""
+
+#: includes/admin-settings.php:204
+#, php-format
+msgid "Max <u>%s</u> (≤)"
+msgstr ""
+
+#: includes/admin-settings.php:208
+#, php-format
+msgid "Shipping Cost (%s)"
+msgstr ""
+
+#: includes/admin-settings.php:287
+msgid "Save Settings"
+msgstr ""
+
+#: includes/admin-settings.php:288
+msgid "Reset to Defaults"
+msgstr ""
+
+#: includes/admin-settings.php:288
+msgid ""
+"Are you sure you want to reset all settings to default?"
+msgstr ""
+
+#: includes/admin-settings.php:324
+msgid ""
+"You do not have permission to manage WooCommerce "
+"settings."
+msgstr ""
+
+#: includes/admin-settings.php:332
+msgid "Failed to save the settings. Please try again."
+msgstr ""
+
+#: includes/admin-settings.php:348
+msgid "Modulux shipping settings reset to default."
+msgstr ""
+
+#: includes/admin-settings.php:361
+msgid "Weight units saved successfully."
+msgstr ""
+
+#: includes/product-fields.php:22
+msgid "Weight Unit"
+msgstr ""
+
+#: includes/product-fields.php:27
+msgid "Select a weight unit"
+msgstr ""
+
+#: includes/product-fields.php:29
+msgid ""
+"Select the weight unit for this product. This will be "
+"used in shipping calculations."
+msgstr ""
+
+#: includes/shipping-logic.php:98
+msgid "Free Shipping"
+msgstr ""
+
+#: includes/shipping-logic.php:100
+msgid "Shipping ("
+msgstr ""
+
+#: includes/shipping-logic.php:133
+msgid "N/A"
+msgstr ""
+
+#: includes/suggest-weight.php:5
+msgid "💡 Suggest Weight"
+msgstr ""
+
+#: includes/suggest-weight.php:111
+msgid "Suggested weight applied:"
+msgstr ""
+
+#: includes/suggest-weight.php:113
+msgid "No weight suggestion available."
+msgstr ""
+
+#: includes/suggest-weight.php:117
+msgid "Error fetching weight suggestion."
+msgstr ""
+
+#: modulux-shipping-helper.php:26
+msgid ""
+"ModulModulux Shipping Helper for WooCommerce requires WooCommerce to be "
+"installed and active."
+msgstr ""
