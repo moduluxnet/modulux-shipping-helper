@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # modulux-shipping-helper
 Enhances WooCommerce Flat Rate shipping by allowing per-product custom weight units, rule-based pricing, VAT, and smart calculation logic.
 =======
@@ -106,4 +105,3 @@ https://www.gnu.org/licenses/gpl-2.0.html
 ## Credits
 
 Crafted by [Modulux](https://modulux.net) — creators of premium WordPress plugins and themes.
->>>>>>> 866c434 (Initial commit)
